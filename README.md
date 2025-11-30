@@ -85,7 +85,7 @@ pip install -e ".[dev,terrain,vis]"
 pre-commit install
 ```
 
-Finally, revert some changed of parameter names:
+Finally, revert some changes of parameter names:
 ```bash
 sed -i \
   -e 's/Subsurface Weight/Subsurface/g' \
