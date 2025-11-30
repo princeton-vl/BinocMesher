@@ -1,0 +1,5 @@
+binocmesher/lib/
+__pycache__/
+infinigen-binocmesher-dev/infinigen/BinocMesher
+results/
+logs/
